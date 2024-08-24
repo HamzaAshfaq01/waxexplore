@@ -13,7 +13,7 @@ dotenv.config()
 mongoose.set("strictQuery", false);
 console.log(DATABASE_CLOUD)
 mongoose
-  .connect(DATABASE_CLOUD || "mongodb+srv://mhussnainpgc11:2161028@cluster0.qsqqypv.mongodb.net/Ziaja" , {
+  .connect(DATABASE_CLOUD || "mongodb+srv://waxexplore:wax123456@cluster0.qucz8.mongodb.net/Wax2" , {
     // useNewUrlParser: true,
     // useUnifiedTopology: true,
   })
